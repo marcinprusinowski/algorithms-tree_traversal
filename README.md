@@ -5,7 +5,9 @@ Unlike graph, tree does not contain cycle and always connected. So DFS of a tree
 Tree Traversal is much easier than you can think. Simple, understandable and balance as everything should be in life ! 
 As always [Wikipedia](https://en.wikipedia.org/wiki/Tree_traversal#Pre-order_%28NLR%29) comes handy if it is about education!
 Every type of Tree Traversal Is called recursive and the most important part is when the vertex is Explored 
+
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/d/dc/Sorted_binary_tree_ALL.svg)
+
 ### PRE-ORDER
 As the name suggest Vertex is explored PRE-ORDER, so the procedure will look like. ( EXPLORE , GO_LEFT , GO_RIGHT)
 1. Explore F then  GO_LEFT
