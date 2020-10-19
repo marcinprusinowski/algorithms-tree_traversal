@@ -25,7 +25,7 @@ As the name suggest Vertex is explored PRE-ORDER, so the procedure will look lik
 
 Result of PRE-ORDER
 	
-		F, B, A, D, C, E, G, I, H;
+	F, B, A, D, C, E, G, I, H;
 ### IN-ORDER
 Result of IN-ORDER
 		
